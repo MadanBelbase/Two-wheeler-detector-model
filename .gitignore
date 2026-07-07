@@ -1,0 +1,8 @@
+datasets/
+runs/
+outputs/
+test_videos/
+*.mp4
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
